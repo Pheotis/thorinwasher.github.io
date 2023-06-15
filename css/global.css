@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "Pixeled";
+	src: url("../fonts/Kemco Pixel Bold.ttf");
+}
+
+body {
+	background-color: white;
+	margin:0px;
+	font-family: Pixeled;
+}
+

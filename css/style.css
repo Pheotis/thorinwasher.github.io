@@ -1,0 +1,69 @@
+.header {
+	background-color: rgb(51, 153, 51);
+	padding: 10px;
+}
+
+.button {
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+	height: 30px;
+	font-size: 25px;
+	width: 100px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.centerer {
+	display: flex;
+	justify-content: center;
+}
+
+.image {
+	padding: 30px;
+	width: 200px;
+	border-radius: 50%;
+}
+
+.holder {
+	margin: 40px;
+	padding: 40px;
+	background-color: rgb(230, 230, 230);
+	border-radius: 10%;
+}
+
+.largeText {
+	font-size: 30px;
+	text-align: center;
+}
+
+.project {
+	text-decoration: none;
+	color: rgb(51, 153, 51);
+	display: block;
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	margin: 20px;
+}
+
+@media only screen and (min-width: 600px){
+	.button {
+		width: 150px;
+	}
+	
+	.image {
+		width: 300px;
+	}
+}
+
+@media only screen and (min-width: 1100px){
+	.button {
+		width: 300px;
+	}
+	
+	.image {
+		width: 400px;
+	}
+}
