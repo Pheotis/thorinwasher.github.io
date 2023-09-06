@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dev.thorinwasher.utils.colorbukkit"},{"l":"dev.thorinwasher.utils.colorbukkit.utils"}];updateSearchResults();
